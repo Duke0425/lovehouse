@@ -1,0 +1,11 @@
+Flask
+flask-blueprint
+Flask-Login
+Flask-Migrate
+Flask-Script
+Flask-SQLAlchemy
+Flask-Uploads
+PyMySQL
+python-editor
+redis
+SQLAlchemy
